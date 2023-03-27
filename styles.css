@@ -1,3 +1,38 @@
 div {
     background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
 }
+
+#btn-1 {
+    background-color: black;
+    color: white;
+}
+
+#btn-2 {
+    background-color: yellow;
+}
+
+.thirdAssignment {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.oddElem {
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    font-size: 24px;
+}
+
+#secondElem {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthElem {
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
